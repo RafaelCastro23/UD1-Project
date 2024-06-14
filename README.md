@@ -19,7 +19,7 @@ You may work in groups of up to 3, note the requirements change slightly (see ru
 
 ## Resources: ##
 - OLI Modules + Lecture Videos - for examples, Java syntax rules, and strategy
-- Replit Labs - larger examples, getting inspiration for ideas
+- Labs - larger examples, getting inspiration for ideas
 
 ## Strategy: ##
 - Choose something you are interested in, not only does that help with motivation but it'll help you think of how to apply this units topics and the requirements above in useful ways
