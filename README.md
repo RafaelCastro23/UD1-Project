@@ -1,6 +1,6 @@
-Group: The Black Hats
-Nicolas Suarez
-Rafael Castro
+Group: The Black Hats- 
+Nicolas Suarez,
+Rafael Castro,
 Bobby Lackey
 
 # Unit 1 Programming Project #
