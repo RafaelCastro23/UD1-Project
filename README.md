@@ -1,4 +1,4 @@
-Group: THe Black Hats
+Group: The Black Hats
 Nicolas Suarez
 Rafael Castro
 Bobby Lackey
