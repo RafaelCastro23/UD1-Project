@@ -1,3 +1,5 @@
+Group: The Black Hats
+
 # Unit 1 Programming Project #
 ## Goal: ##
 _Create a Java program using Unit 1 topics to demonstrate knowledge and mastery._
